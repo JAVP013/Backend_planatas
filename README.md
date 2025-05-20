@@ -194,19 +194,4 @@ POST /api/datos
 }
 ```
 
----
 
-## 📌 Recomendaciones Futuras
-
-- 🔐 Autenticación con JWT
-- 🔒 Encriptar contraseñas con bcrypt
-- ✅ Validación de entradas (con Joi o express-validator)
-- 📘 Documentación Swagger (OpenAPI)
-- 📦 Separación de entornos (`.env`)
-- 📈 Gráficas y dashboard en el frontend
-
----
-
-## 👤 Autor
-
-**WAZZAAA** — Proyecto académico de monitoreo inteligente para cultivos.
