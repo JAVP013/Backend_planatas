@@ -162,8 +162,7 @@ POST /api/usuarios
 {
   "nombreCompleto": "Laura García",
   "rfc": "GARL880101XXX",
-  "contrasena": "123456",
-  "tipoUsuario": "Experto"
+  "contrasena": "123456"
 }
 ```
 
